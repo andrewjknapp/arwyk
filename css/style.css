@@ -14,7 +14,7 @@ body {
 
 header {
     background: rgb(83, 55, 23);
-    background-image: url('./assets/wood.jpeg');
+    background-image: url('../assets/wood.jpeg');
     background-size: cover;
     height: 100px;
     display: flex;
@@ -42,7 +42,7 @@ main {
     justify-content: flex-start;
     align-items: center;
     flex-direction: column;
-    overflow: scroll;
+    overflow-y: scroll;
 }
 
 main section {
