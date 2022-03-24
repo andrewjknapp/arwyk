@@ -1,0 +1,2 @@
+## Optimizing images
+- jgegoptim 'filename'
